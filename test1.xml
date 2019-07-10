@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entries>
+<entry>
+  <name>Username1</name>
+  <email>usrgmail1@gmail.com</email>
+  <etc>Reminder1</etc>
+</entry> 
+<entry>
+  <name>Username5</name>
+  <email>usr5@gmail.com</email>
+  <etc>Reminder1</etc>
+</entry> 
+<entry>
+  <name>Username1</name>
+  <email>usr1@gmail.com</email>
+  <etc>Reminder1</etc>
+</entry> 
+<entry>
+  <name>Username2</name>
+  <email>usr2@gmail.com</email>
+  <etc>Reminder1</etc>
+</entry> 
+</entries>
